@@ -1,0 +1,142 @@
+.row{
+	margin-top: 27px;
+}
+.box-content h1{
+	font-size: 46px;
+	font-weight: bold;
+	border-bottom: 4px solid blue;
+	color:#1833ff; 	
+	width: 208px;
+	position: relative;
+
+}
+.box-content h1 span{
+	color: #bc0707;
+}
+.box-content h2{
+	color: #1f29ff;
+    font-weight: bold;
+    font-size: -webkit-xxx-large;
+    margin-bottom: 43px;
+
+}
+.box-content .hr{
+
+    margin-top: -14px;
+    border-top: 4px solid #eee;
+}
+.box-content li{
+    font-size: medium;
+    text-align: left;
+    margin-bottom: -19px;
+
+}
+.box-content li i{
+color:#ff6503;
+float: left;
+clear: both;
+padding-right: 10px;
+    padding-bottom: 18px;
+    margin-top: 3px;
+}
+.box-content li span {
+	font-weight:bold;
+}
+.box-content img{
+    width: 100%;
+    height: 100%;}
+/*Start Features*/
+    .features .media-left{
+    	padding-top: 67px;
+    }
+    .features h1{
+    	color: #1f29ff;
+    font-weight: bold;
+    font-size: -webkit-xxx-large;
+    margin-bottom: 43px;
+    }
+    .features .media-body h3, i {
+    	color:#ff720c;
+    }
+    .features  .media{
+    	    border-right: 1px solid #eeeeee;}
+
+    .features img{
+    	width: 70px;
+    }
+    /*End Features*/
+    .why-us h2{
+    	    color: #1f29ff;
+    font-weight: bold;
+    font-size: -webkit-xxx-large;
+    margin-bottom: 43px;
+    }
+     .why-us li{
+    	margin-bottom: 0;
+    }
+   .us img{
+   	width: 100%;
+    	 height: 545px;
+    }
+    /*Start our plans*/
+    .our-plans h1{
+    	  color: #1f29ff;
+    font-weight: bold;
+    font-size: -webkit-xxx-large;
+    margin-bottom: 43px;
+    }
+    .our-plans .left .redH{
+    	    background-color: #a50000;
+    color: #FFF;
+   
+    padding: 27px 19px 26px 31px;
+    margin-bottom: 0;
+}
+
+    .our-plans .left .red{
+    	background-color: #ff0405;
+    	color: #FFF;
+    	    padding: 32px 34px 17px 0;
+    }
+.our-plans  ul li{
+	padding-bottom: 12px;
+	    font-size: 17px;
+}
+ .our-plans .meddle .yellowH{
+    	    background-color: #ba7900;
+    color: #FFF;
+   
+    padding: 27px 19px 26px 31px;
+    margin-bottom: 0;
+}
+
+    .our-plans .meddle .yellow{
+    	background-color: #ffa100;
+    	color: #FFF;
+    	    padding: 32px 34px 17px 0;
+    }
+ .our-plans .right .blueH{
+    	    background-color: #001282;
+    color: #FFF;
+   
+    padding: 27px 19px 26px 31px;
+    margin-bottom: 0;
+}
+
+    .our-plans .right .blue{
+    	background-color: #1833ff;
+    	color: #FFF;
+    	    padding: 32px 34px 17px 0;
+    }
+
+        
+    /*end our plans*/
+    footer{
+    	background-color: #bd0000;
+    	width: 100%;
+    	height: 50px;
+    	text-align: right;
+    	padding-right: 32px;
+    padding-top: 13px;
+    color: #FFF;
+    }
